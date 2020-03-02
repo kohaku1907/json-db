@@ -3,15 +3,15 @@
     "code": 200,
     "message": "OK",
     "server_time": 1583137375,
-    "data": {
-        "result": [
+    "data": [
             { "id": 1, "brand": "CAMRY", "contract_no": "1000399777", "car_type_name": "2.0G 2018", "plate_no": "14-A4 1545", "contract_date_start": "12/12/2019", "contract_date_end": "12/12/2024", "contract_amount": "228,000,000" },
             { "id": 2, "brand": "VIOS", "contract_no": "1000399777", "car_type_name": "2.0G 2018", "plate_no": "14-A4 1545", "contract_date_start": "12/12/2019", "contract_date_end": "12/12/2024", "contract_amount": "228,000,000" },
             { "id": 3, "brand": "INNOVA", "contract_no": "1000399777", "car_type_name": "2.0G 2018", "plate_no": "14-A4 1545", "contract_date_start": "12/12/2019", "contract_date_end": "12/12/2024", "contract_amount": "228,000,000" },
             { "id": 4, "brand": "CAMRY", "contract_no": "1000399777", "car_type_name": "2.0G 2018", "plate_no": "14-A4 1545", "contract_date_start": "12/12/2019", "contract_date_end": "12/12/2024", "contract_amount": "228,000,000" },
             { "id": 5, "brand": "INNOVA", "contract_no": "1000399777", "car_type_name": "2.0G 2018", "plate_no": "4-A4 1545", "contract_date_start": "12/12/2019", "contract_date_end": "12/12/2024", "contract_amount": "228,000,000" }
-        ],
-        "total": 5
+    ],
+    "meta": {
+      "total": 5
     }
   }
 }
